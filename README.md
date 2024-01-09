@@ -1,5 +1,5 @@
 # Bio_Book
-# Hey there! 👋 I'm Venkata Suba Mahanth Vadlamoodi.
+# Hey there! 👋 I'm Mandla Siva Manoj.
 
 I'm a student pursuing a Bachelor of Technology degree in Electrical Engineering @ IIT Madras.
 
