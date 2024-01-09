@@ -15,6 +15,7 @@ I'm a student pursuing a Bachelor of Technology degree in Electrical Engineering
 - 📫 How to reach me: 
   - Email: sivamanojmandla@gmail.com
 ## Hobbies
+- 💻 Coding
 - 🏏 Cricket enthusiast
 - 🎭 Meme creation
 - 🎬 Video editing
