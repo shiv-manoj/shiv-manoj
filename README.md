@@ -16,7 +16,5 @@ Hey there! 👋 I'm Mandla Siva Manoj. I'm a student pursuing a Bachelor of Tech
 - 🎭 Meme creation
 - 🎬 Video editing
 - 🏊 Swimming
-- 🐦 Twitter: @shiv_manoj_1383
-- 📸 Instagram: shiv_manoj_1383
     
 
