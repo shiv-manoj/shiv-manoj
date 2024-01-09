@@ -1,6 +1,4 @@
-# Bio_Book
 Hey there! 👋 I'm Mandla Siva Manoj. I'm a student pursuing a Bachelor of Technology degree in Electrical Engineering @ IIT Madras.
-
 ## About Me
 - 🏫 Junior at IIT Madras
 - 🌱 Currently learning software development and competitive programming
